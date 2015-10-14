@@ -1,0 +1,13 @@
+{
+	"baseURL": "dsfsdfsd",
+	"planets":[
+    {"name":"mercury", "image":"mercury.png", "distance":57909175, "diameter":2440}, 
+    {"name":"venus", "image":"venus.png", "distance":108208930, "diameter":6052}, 
+    {"name":"earth", "image":"earth.png", "distance":149597870, "diameter":6371}, 
+    {"name":"mars", "image":"mars.png", "distance":227936640, "diameter":3389}, 
+    {"name":"jupiter", "image":"jupiter.png", "distance":778412010, "diameter":69911}, 
+    {"name":"saturn", "image":"saturn.png", "distance":1426725400, "diameter":58232}, 
+    {"name":"uranus", "image":"uranus.png", "distance":2870972200, "diameter":25362}, 
+    {"name":"neptune", "image":"neptune.png", "distance":4498252900, "diameter":24622}
+]
+}
